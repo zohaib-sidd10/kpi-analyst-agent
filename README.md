@@ -182,7 +182,7 @@ MIT License - See LICENSE file
 
 ## 🎬 Quick Demo
 
-See real output: [examples/week9-report](examples/week9-report)
+See real output: [examples/week9-report](examples)
 
 Try it: Copy `data/sample-metrics.csv` → Paste into Claude → Use system prompt
 
