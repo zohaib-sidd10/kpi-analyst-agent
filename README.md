@@ -102,7 +102,6 @@ docs/
 - **[HOW-IT-WORKS.md](docs/HOW-IT-WORKS.md)** — Technical deep-dive
 - **[GETTING-STARTED.md](docs/GETTING-STARTED.md)** — Step-by-step setup
 - **[PORTFOLIO.md](PORTFOLIO.md)** — Why this project matters
-- **[System Prompt](agents/01-kpi-analyst/system-prompt.md)** — Agent instructions
 
 ## 💡 Usage Examples
 
@@ -183,7 +182,7 @@ MIT License - See LICENSE file
 
 ## 🎬 Quick Demo
 
-See real output: [examples/week9-slack-report.md](examples/week9-slack-report.md)
+See real output: [examples/week9-report](examples/week9-report)
 
 Try it: Copy `data/sample-metrics.csv` → Paste into Claude → Use system prompt
 
