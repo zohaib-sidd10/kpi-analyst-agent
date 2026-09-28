@@ -99,8 +99,6 @@ docs/
 
 ## 📚 Documentation
 
-- **[HOW-IT-WORKS.md](docs/HOW-IT-WORKS.md)** — Technical deep-dive
-- **[GETTING-STARTED.md](docs/GETTING-STARTED.md)** — Step-by-step setup
 - **[PORTFOLIO.md](PORTFOLIO.md)** — Why this project matters
 
 ## 💡 Usage Examples
@@ -168,15 +166,11 @@ No manual setup needed—just provide metrics.
 
 See [PORTFOLIO.md](PORTFOLIO.md) for the full vision.
 
-## 📝 License
-
-MIT License - See LICENSE file
 
 ## 👤 Author
 
-[Your Name]  
-[Your LinkedIn]  
-[Your GitHub]
+Zohaib Siddiqui  
+www.linkedin.com/in/zohaib-siddiqui-30aa03243  
 
 ---
 
@@ -184,7 +178,6 @@ MIT License - See LICENSE file
 
 See real output: [examples/week9-report](examples)
 
-Try it: Copy `data/sample-metrics.csv` → Paste into Claude → Use system prompt
 
 ---
 
